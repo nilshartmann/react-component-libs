@@ -2,6 +2,8 @@ import "./globals.css";
 import { Nunito_Sans } from "@next/font/google";
 import PageHeader from "@/components/PageHeader";
 import { ReactNode } from "react";
+import ExternalLink from "@/components/ExternalLink";
+import PageFooter from "@/components/PageFooter";
 
 const nunitoSans = Nunito_Sans({
   subsets: ["latin"],
@@ -31,6 +33,7 @@ export default function RootLayout({
                 React Component Libraries
               </PageHeader>
               {children}
+              <PageFooter />
             </div>
           </div>
         </div>

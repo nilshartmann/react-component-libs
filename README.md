@@ -1,38 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# React (Component) libraries
 
-## Getting Started
+Source code for my list of [React component libraries](https://react-libs.nilshartmann.net/), that was
+previously a simple list in a [GitHub Gist](https://gist.github.com/nilshartmann/decb10d37a76ae3ab58f0c7755beb038).
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Contributing
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+If you like to add some libs, please feel free to add a PR (modify `data/components.txt`, see below) or open an issue.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### `components.txt`
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+The file `data/components.txt` contains the list of components. Each entry is separated by three dashes (`---`) and
+contains four keys:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+* `Name`: Readable, "official" name of the library. Used to sort the libraries
+* `URL`: URL of the libraries homepage or GitHub repo
+* `Category`: Used to group components in to several categories and provide filtering for them. You can just re-use on of the existing categories. Please copy+paste to avoid typos, as the categories are not checked against misspellings (and different spellings lead to different categories...)
+* `Tags`: Not used yet. If you want, you can use the field to add comma separated tags that I will later use for more filtering.
+* `Description`: Short description of the library. Can contain markdown code and can be split up into multiple lines.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Please also do not forget to add your name and link to `data/contributors.txt`!
 
-## Learn More
+# Contact
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+If you have questions or comments (or need React consulting 😇), you can [contact me](https://nilshartmann.net) or find me
+on [Twitter](https://twitter.com/nilshartmann) and [Mastodon](https://norden.social/@nilshartmann)

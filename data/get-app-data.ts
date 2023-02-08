@@ -1,7 +1,6 @@
 import * as path from "path";
 import slugify from "slugify";
-
-const fs = require("fs");
+import fs from "fs";
 
 export type ICategoryDescription = {
   title: string;
@@ -48,7 +47,7 @@ function loadComponentData() {
   };
   // read contents of the file
 
-  const data = fs.readFileSync(componentsFile, "UTF-8");
+  const data = fs.readFileSync(componentsFile, { encoding: "utf-8" });
 
   // split the contents by new line
   const lines = data.split(/\r?\n/);
@@ -130,6 +129,10 @@ function setupAppData(): ICategoryData[] {
   componentDescriptions.forEach((cd) => {
     const page: ICategoryData = getOrCreateCategory(cd.category);
     page.components.push(cd);
+  });
+
+  result.forEach((r) => {
+    r.components.sort((a, b) => a.name.localeCompare(b.name));
   });
 
   return result;

@@ -2,6 +2,7 @@ import { Main, Sidebar, TwoColumnLayout } from "@/components/GridLayout";
 import Categories from "@/app/[[...categorySlug]]/Categories";
 import { getCategorySlug, IPageParams } from "@/app/[[...categorySlug]]/params";
 import { ReactNode } from "react";
+import Contributors from "@/app/[[...categorySlug]]/Contributors";
 
 type LayoutProps = {
   params: IPageParams;
@@ -16,6 +17,7 @@ export default function Layout({ params, children }: LayoutProps) {
       <Main>{children}</Main>
       <Sidebar>
         <Categories active={categorySlug} />
+        <Contributors />
       </Sidebar>
     </TwoColumnLayout>
   );

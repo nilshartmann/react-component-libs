@@ -3,6 +3,7 @@ import { categoryBySlugFilter, getAppData } from "@/data/get-app-data";
 import { H2 } from "@/components/Heading";
 import { getCategorySlug, IPageParams } from "@/app/[[...categorySlug]]/params";
 import ComponentCard from "@/app/[[...categorySlug]]/ComponentCard";
+import CategoryList from "@/app/[[...categorySlug]]/CategoryList";
 
 export function generateStaticParams(): IPageParams[] {
   const slugs = getAppData().map((a) => ({ categorySlug: [a.slug] }));
@@ -23,13 +24,17 @@ export default function CategoryPage({ params }: CategoryPageProps) {
     throw notFound();
   }
 
+  if (selectedCategory.slug) {
+    return <CategoryList category={selectedCategory} />;
+  }
+
   return (
     <div className={"space-y-4"}>
-      <H2>{selectedCategory.title}</H2>
-      {selectedCategory.components.map((c) => {
-        /* @ts-expect-error Server Component */
-        return <ComponentCard key={c.url} component={c} />;
-      })}
+      {getAppData()
+        .filter((category) => category.slug !== "")
+        .map((category) => (
+          <CategoryList key={category.slug} category={category} />
+        ))}
     </div>
   );
 }

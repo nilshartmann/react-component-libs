@@ -1,126 +1,132 @@
 Name: Atlas Kit
 URL: https://atlaskit.atlassian.com/
-Category: Component libraries and Design Systems
+Category: Brand Design Systems
 Tags:
 Description: Atlassian's official UI library, built according to the **Atlassian Design** Guidelines (ADG)
 ---
 Name: Audi
 URL: https://react.ui.audi/
-Category:Component libraries and Design Systems
+Category: Brand Design Systems
 Tags:
 Description: **Audi** design system
 ---
 Name: Auro
 URL: https://auro.alaskaair.com
-Category:Component libraries and Design Systems
+Category: Brand Design Systems
 Tags:
 Description: **Alaska Airlines**
 ---
 Name: Base Web
 URL: https://baseweb.design/
-Category: Component libraries and Design Systems
+Category: Brand Design Systems
 Tags:
 Description: **Uber** React component library
 ---
 Name: Carbon
 URL: https://github.com/carbon-design-system/carbon/tree/master/packages/react
-Category: Component libraries and Design Systems
+Category: Brand Design Systems
 Tags:
 Description: **IBM**s Design System
 ---
 Name: Declathon Vitamin
 URL: https://github.com/Decathlon/vitamin-web/tree/main/packages/sources/react
-Category: Component libraries and Design Systems
+Category: Brand Design Systems
 Tags:
 Description: **Declathon** Vitamin Design System
 ---
 Name: Dell
 URL: https://www.delldesignsystem.com/
-Category:Component libraries and Design Systems
+Category: Brand Design Systems
 Tags:
 Description: Design Systems (React components currently only in backlog)
 ---
 Name: Deutsche Bahn
 URL: https://dpp.bahn-x.de/components
-Category:Component libraries and Design Systems
+Category: Brand Design Systems
 Tags:
 Description: **Deutsche Bahn** design system 
 ---
 Name: Elastic UI framework
 URL: https://elastic.github.io/eui/#/
-Category:Component libraries and Design Systems
+Category: Brand Design Systems
 Tags:
 Description: Design Library by **Elastic** used by their own products
 ---
+Name: Unified UI
+URL: https://uui.epam.com/
+Category: Brand Design Systems
+Tags:
+Description: Digital Platform UX/UI used to build all **EPAM** internal products in one effective & consistent way.
+---
 Name: Fluent UI
 URL: https://react.fluentui.dev
-Category:Component libraries and Design Systems
+Category: Brand Design Systems
 Tags:
 Description: by **Microsoft**: The official front-end framework for Office and Office 365. (formerly known as **Fabric UI**)
 ---
 Name: Gestalt
 URL: https://github.com/pinterest/gestalt
-Category:Component libraries and Design Systems
+Category: Brand Design Systems
 Tags:
 Description: **Pinterest** design language components
 ---
 Name: GitHub Primer Components
 URL: https://primer.style/components/
-Category:Component libraries and Design Systems
+Category: Brand Design Systems
 Tags:
 Description: React Components for **GitHub** Design System called "Primer"
 ---
 Name: Google Pay Button
 URL: https://github.com/google-pay/google-pay-button/tree/main/src/button-react
-Category:Component libraries and Design Systems
+Category: Brand Design Systems
 Tags:
 Description: "Google Pay" Button as React Component 
 ---
 Name: J.P.Morgan
 URL: https://www.saltdesignsystem.com/components/
-Category:Component libraries and Design Systems
+Category: Brand Design Systems
 Tags:
 Description: Salt Design System by J.P.Morgan
 ---
 Name: Pharos
 URL: https://pharos.jstor.org/
-Category:Component libraries and Design Systems
+Category: Brand Design Systems
 Tags:
 Description: Design system of **JSTOR**
 ---
 Name: react-stripe-elements
 URL: https://github.com/stripe/react-stripe-elements
-Category:Component libraries and Design Systems
+Category: Brand Design Systems
 Tags:
 Description: React components for Stripe.js and **Stripe Elements**
 ---
 Name: Ring UI
 URL: https://github.com/JetBrains/ring-ui
-Category:Component libraries and Design Systems
+Category: Brand Design Systems
 Tags:
 Description: **JetBrains** UI components
 ---
 Name: Shopify Polaris
 URL: https://polaris.shopify.com/
-Category:Component libraries and Design Systems
+Category: Brand Design Systems
 Tags:
 Description: **Shopify**’s product component library
 ---
 Name: Spectrum
 URL: https://react-spectrum.adobe.com/react-spectrum/Flex.html
-Category:Component libraries and Design Systems
+Category: Brand Design Systems
 Tags:
 Description: Implementation of Spectrum, **Adobe**’s design system
 ---
 Name: Webex
 URL: https://momentum.design/components
-Category:Component libraries and Design Systems
+Category: Brand Design Systems
 Tags:
 Description: **Webex** design system by Cisco
 ---
 Name: Workbench
 URL: https://workbench.gusto.com/
-Category:Component libraries and Design Systems
+Category: Brand Design Systems
 Tags:
 Description: Design system for **Gusto**'s platform
 ---
@@ -287,7 +293,7 @@ Tags:
 Description: Component library built with Web Components, with first-class React support 
 ---
 Name: Tamagui
-URL: https://tamagui.dev/): universal design system (also for React Native
+URL: https://tamagui.dev/): universal design system (also for React Native)
 Category:Component libraries and Design Systems
 Tags:
 Description: with **compiled inline styles** 
