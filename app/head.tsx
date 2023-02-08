@@ -6,5 +6,5 @@ export default function Head() {
       <meta name="description" content="Collection of libraries for React" />
       <link rel="icon" href="/favicon.ico" />
     </>
-  )
+  );
 }

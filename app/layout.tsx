@@ -1,8 +1,7 @@
 import "./globals.css";
 import { Nunito_Sans } from "@next/font/google";
 import PageHeader from "@/components/PageHeader";
-import { Main, Sidebar, TwoColumnLayout } from "@/components/GridLayout";
-import Categories from "@/app/[[...categorySlug]]/Categories";
+import { ReactNode } from "react";
 
 const nunitoSans = Nunito_Sans({
   subsets: ["latin"],
@@ -15,7 +14,7 @@ export default function RootLayout({
   params,
 }: {
   params: any;
-  children: React.ReactNode;
+  children: ReactNode;
 }) {
   return (
     <html lang="en">

@@ -5,6 +5,10 @@ pnpm-lock.yaml
 /public/build
 .env
 
+.next/
+.idea/
+.vscode/
+
 # Generated:
 /app/styles/app.css
 /app/styles/tailwind.css
