@@ -1,0 +1,12 @@
+node_modules
+pnpm-lock.yaml
+
+/build
+/public/build
+.env
+
+# Generated:
+/app/styles/app.css
+/app/styles/tailwind.css
+/styles/google-fonts.css
+/styles/google-fonts.css

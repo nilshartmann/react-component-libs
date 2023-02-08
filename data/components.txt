@@ -1,0 +1,860 @@
+Name: Atlas Kit
+URL: https://atlaskit.atlassian.com/
+Category: Component libraries and Design Systems
+Tags:
+Description: Atlassian's official UI library, built according to the **Atlassian Design** Guidelines (ADG)
+---
+Name: Audi
+URL: https://react.ui.audi/
+Category:Component libraries and Design Systems
+Tags:
+Description: **Audi** design system
+---
+Name: Auro
+URL: https://auro.alaskaair.com
+Category:Component libraries and Design Systems
+Tags:
+Description: **Alaska Airlines**
+---
+Name: Base Web
+URL: https://baseweb.design/
+Category: Component libraries and Design Systems
+Tags:
+Description: **Uber** React component library
+---
+Name: Carbon
+URL: https://github.com/carbon-design-system/carbon/tree/master/packages/react
+Category: Component libraries and Design Systems
+Tags:
+Description: **IBM**s Design System
+---
+Name: Declathon Vitamin
+URL: https://github.com/Decathlon/vitamin-web/tree/main/packages/sources/react
+Category: Component libraries and Design Systems
+Tags:
+Description: **Declathon** Vitamin Design System
+---
+Name: Dell
+URL: https://www.delldesignsystem.com/
+Category:Component libraries and Design Systems
+Tags:
+Description: Design Systems (React components currently only in backlog)
+---
+Name: Deutsche Bahn
+URL: https://dpp.bahn-x.de/components
+Category:Component libraries and Design Systems
+Tags:
+Description: **Deutsche Bahn** design system 
+---
+Name: Elastic UI framework
+URL: https://elastic.github.io/eui/#/
+Category:Component libraries and Design Systems
+Tags:
+Description: Design Library by **Elastic** used by their own products
+---
+Name: Fluent UI
+URL: https://react.fluentui.dev
+Category:Component libraries and Design Systems
+Tags:
+Description: by **Microsoft**: The official front-end framework for Office and Office 365. (formerly known as **Fabric UI**)
+---
+Name: Gestalt
+URL: https://github.com/pinterest/gestalt
+Category:Component libraries and Design Systems
+Tags:
+Description: **Pinterest** design language components
+---
+Name: GitHub Primer Components
+URL: https://primer.style/components/
+Category:Component libraries and Design Systems
+Tags:
+Description: React Components for **GitHub** Design System called "Primer"
+---
+Name: Google Pay Button
+URL: https://github.com/google-pay/google-pay-button/tree/main/src/button-react
+Category:Component libraries and Design Systems
+Tags:
+Description: "Google Pay" Button as React Component 
+---
+Name: J.P.Morgan
+URL: https://www.saltdesignsystem.com/components/
+Category:Component libraries and Design Systems
+Tags:
+Description: Salt Design System by J.P.Morgan
+---
+Name: Pharos
+URL: https://pharos.jstor.org/
+Category:Component libraries and Design Systems
+Tags:
+Description: Design system of **JSTOR**
+---
+Name: react-stripe-elements
+URL: https://github.com/stripe/react-stripe-elements
+Category:Component libraries and Design Systems
+Tags:
+Description: React components for Stripe.js and **Stripe Elements**
+---
+Name: Ring UI
+URL: https://github.com/JetBrains/ring-ui
+Category:Component libraries and Design Systems
+Tags:
+Description: **JetBrains** UI components
+---
+Name: Shopify Polaris
+URL: https://polaris.shopify.com/
+Category:Component libraries and Design Systems
+Tags:
+Description: **Shopify**’s product component library
+---
+Name: Spectrum
+URL: https://react-spectrum.adobe.com/react-spectrum/Flex.html
+Category:Component libraries and Design Systems
+Tags:
+Description: Implementation of Spectrum, **Adobe**’s design system
+---
+Name: Webex
+URL: https://momentum.design/components
+Category:Component libraries and Design Systems
+Tags:
+Description: **Webex** design system by Cisco
+---
+Name: Workbench
+URL: https://workbench.gusto.com/
+Category:Component libraries and Design Systems
+Tags:
+Description: Design system for **Gusto**'s platform
+---
+Name: AgnosticUI
+URL: https://www.agnosticui.com/
+Category:Component libraries and Design Systems
+Tags:
+Description: Accessible React component primitives (also work with Vue, Svelte and Angular)
+---
+Name: Ant Design
+URL: https://ant.design/docs/react/introduce
+Category:Component libraries and Design Systems
+Tags:
+Description: A complete Design System (and implementation in React)
+---
+Name: Blueprint
+URL: http://blueprintjs.com/
+Category:Component libraries and Design Systems
+Tags:
+Description: A react-based UI Toolkit for the Web
+---
+Name: Chakra UI
+URL: https://chakra-ui.com/
+Category:Component libraries and Design Systems
+Tags:
+Description: modular and accessible component library for React
+---
+Name: Choc UI
+URL: https://choc-ui.com/
+Category:Component libraries and Design Systems
+Tags:
+Description: Prebuilt **Chakra UI** components that are commonly used in web applications
+---
+Name: Clarity
+URL: https://core.clarity.design/get-started/
+Category:Component libraries and Design Systems
+Tags:
+Description: "enterprise-focused design system with a core design principle of inclusion" by VMware
+---
+Name: Evergreen
+URL: https://evergreen.segment.com/
+Category:Component libraries and Design Systems
+Tags:
+Description: Design system with React Components
+---
+Name: Formatic UI
+URL: https://fomantic-ui.com/
+Category:Component libraries and Design Systems
+Tags:
+Description: community fork of **Semantic UI**  
+---
+Name: Framework7
+URL: https://framework7.io/): for building iOS, Android and Desktop (Electron
+Category:Component libraries and Design Systems
+Tags:
+Description: apps. React components included.
+---
+Name: Grommet
+URL: http://grommet.io/
+Category:Component libraries and Design Systems
+Tags:
+Description: A design system made for React.js
+---
+Name: Kendo UI
+URL: https://www.telerik.com/kendo-react-ui/
+Category:Component libraries and Design Systems
+Tags:
+Description: React components for **Kendo UI**
+---
+Name: KoliBri
+URL: https://public-ui.github.io/
+Category:Component libraries and Design Systems
+Tags:
+Description: (GER) accessible webcomponents (including React) by InformationsTechnikZentrum Bund
+---
+Name: Onsen UI
+URL: https://onsen.io/react/
+Category:Component libraries and Design Systems
+Tags:
+Description: React components for **hybrid mobile apps** (Android, iOS)
+---
+Name: Mantine
+URL: https://mantine.dev/
+Category:Component libraries and Design Systems
+Tags:
+Description: customizable components and hooks for building accessible web apps
+---
+Name: Magnus UI
+URL: https://magnus-ui.com/
+Category:Component libraries and Design Systems
+Tags:
+Description: Utility-First UI framework for **React Native**
+---
+Name: NativeBase
+URL: https://nativebase.io/
+Category:Component libraries and Design Systems
+Tags:
+Description: Mobile-first, accessible components to build consistent UI across Android, iOS and Web (also for React Native)
+---
+Name: Patternfly
+URL: https://www.patternfly.org/
+Category:Component libraries and Design Systems
+Tags:
+Description: open source design system by RedHat
+---
+Name: PrimeReact
+URL: https://www.primefaces.org/primereact/#/
+Category:Component libraries and Design Systems
+Tags:
+Description: Official **PrimeFaces** components for React
+---
+Name: Radix UI
+URL: https://radix-ui.com/
+Category:Component libraries and Design Systems
+Tags:
+Description: Radix Primitives is a low-level UI component library with a **focus on accessibility**
+---
+Name: RBX
+URL: https://dfee.github.io/rbx/
+Category:Component libraries and Design Systems
+Tags:
+Description: **Bulma** UI Framework for React 
+---
+Name: React-Elemental
+URL: https://linkiwi.github.io/react-elemental-docs/
+Category:Component libraries and Design Systems
+Tags:
+Description: Modern, flat UI library for React
+---
+Name: Reactivesearch
+URL: https://opensource.appbase.io/reactivesearch/
+Category:Component libraries and Design Systems
+Tags:
+Description: React UI components for **Elasticsearch**
+---
+Name: React Suite
+URL: https://rsuitejs.com/en
+Category:Component libraries and Design Systems
+Tags:
+Description: suite of React components
+---
+Name: Reakit
+URL: https://reakit.io/
+Category:Component libraries and Design Systems
+Tags:
+Description: **Accessible** UI components for React
+---
+Name: Rebass
+URL: http://jxnblk.com/rebass/
+Category:Component libraries and Design Systems
+Tags:
+Description: Functional React UI component library, built with styled-components
+---
+Name: Semantic UI
+URL: https://react.semantic-ui.com
+Category:Component libraries and Design Systems
+Tags:
+Description: **Semantic UI** integration for React
+---
+Name: shoelace
+URL: https://shoelace.style/
+Category:Component libraries and Design Systems
+Tags:
+Description: Component library built with Web Components, with first-class React support 
+---
+Name: Tamagui
+URL: https://tamagui.dev/): universal design system (also for React Native
+Category:Component libraries and Design Systems
+Tags:
+Description: with **compiled inline styles** 
+---
+Name: Dripsy
+URL: https://www.dripsy.xyz/
+Category:"Headless" UI frameworks
+Tags:
+Description: Unstyled, responsive UI primitives for React and React Native 
+---
+Name: Headless UI
+URL: https://headlessui.dev/
+Category:"Headless" UI frameworks
+Tags:
+Description: fully accessible UI components, designed to integrate beautifully with **Tailwind CSS**
+---
+Name: Restart UI
+URL: https://react-restart.github.io/ui/
+Category:"Headless" UI frameworks
+Tags:
+Description: Fully working UI Components but without styling, designed to integrate into any styling framework
+---
+Name: Emotion
+URL: https://emotion.sh/docs/introduction
+Category:"Headless" UI frameworks
+Tags:
+Description: UI-lib agnostic CSS-in-JS-library with React support
+---
+Name: Griffel
+URL: https://griffel.js.org/): CSS-in-JS lib by Microsoft (used in FluentUI
+Category:"Headless" UI frameworks
+Tags:
+Description: with ahead-of-time compilation
+---
+Name: stitches
+URL: https://stitches.dev/
+Category:"Headless" UI frameworks
+Tags:
+Description: Styling Libary
+---
+Name: Styled Components
+URL: https://styled-components.com/
+Category:"Headless" UI frameworks
+Tags:
+Description: Styled Components
+---
+Name: Theme UI
+URL: https://theme-ui.com/
+Category:"Headless" UI frameworks
+Tags:
+Description: Themeable design systems
+---
+Name: Material-UI
+URL: https://material-ui-next.com/
+Category:"Headless" UI frameworks
+Tags:Material-UI
+Description: **Material UI** components for React
+---
+Name: React Material Web Components
+URL: https://github.com/jamesmfriedman/rmwc
+Category:"Headless" UI frameworks
+Tags:Material-UI
+Description: React wrapper around Google **Material Design** Components
+---
+Name: MD Components
+URL: https://hbm.github.io/md-components/
+Category:"Headless" UI frameworks
+Tags:Material-UI
+Description: **Material Design** React Components
+---
+Name: Polythene
+URL: https://github.com/ArthurClemens/polythene
+Category:"Headless" UI frameworks
+Tags:Material-UI
+Description: Material Design component library
+---
+Name: reactstrap
+URL: https://reactstrap.github.io/
+Category:Bootstrap and Foundation
+Tags:Bootstrap
+Description: React Components for **Bootstrap 4** 
+---
+Name: React Bootstrap
+URL: https://react-bootstrap.github.io/
+Category:Bootstrap and Foundation
+Tags:Bootstrap
+Description: **Bootstrap** rewritten in React 
+---
+Name: React Foundation
+URL: https://react.foundation/
+Category:Bootstrap and Foundation
+Tags:Foundation
+Description: React Components for ZURB **Foundation** Framework
+---
+Name: react-grid-layout
+URL: https://github.com/STRML/react-grid-layout
+Category:Layout
+Tags:
+Description: **draggable and resizable** grid layout
+---
+Name: AG Grid
+URL: https://github.com/ag-grid/ag-grid
+Category:Data Grids and Tables
+Tags:
+Description: fast and highly customizable data grid
+---
+Name: jqwidgets React Grid
+URL: https://www.jqwidgets.com/react/react-grid/
+Category:Data Grids and Tables
+Tags:
+Description: datagrid component built with React, Typescript and the jQWidgets framework 
+---
+Name: React DataGrid
+URL: http://adazzle.github.io/react-data-grid/
+Category:Data Grids and Tables
+Tags:
+Description: Excel-like grid component built with React
+---
+Name: React Grid
+URL: https://devexpress.github.io/devextreme-reactive/react/grid/
+Category:Data Grids and Tables
+Tags:
+Description: Grid for Bootstrap and Material-UI
+---
+React Data Grid
+Name: TanStack Table
+URL: https://tanstack.com/table
+Category:Data Grids and Tables
+Tags:
+Description: one of the first and most popular table components for React. Previously known as **React Table**
+---
+Name: Albus
+URL: https://github.com/americanexpress/react-albus
+Category:Specialized components
+Tags:
+Description: library for building declarative **multi-step flows**
+---
+Name: AirBnB react-dates
+URL: https://github.com/airbnb/react-dates
+Category:Specialized components
+Tags:
+Description: An easily internationalizable, mobile-friendly **datepicker** library for the web
+---
+Name: Countdown
+URL: https://github.com/ndresx/react-countdown
+Category:Specialized components
+Tags:
+Description: Customizable **Countdown** component
+---
+Name: Downshift
+URL: https://www.downshift-js.com/
+Category:Specialized components
+Tags:
+Description:  WAI-ARIA compliant **autocomplete/combobox** or **select dropdown** components.
+---
+Name: Email Editor Component
+URL: https://github.com/unlayer/react-email-editor
+Category:Specialized components
+Tags:
+Description: A drag-n-drop **email editor** by Unlayer
+---
+Name: Lexical
+URL: https://github.com/facebook/lexical
+Category:Specialized components
+Tags:
+Description: dependency-free text editor framework that allows developers to build powerful, simple and complex, editor surfaces
+---
+Name: Nice Modal
+URL: https://github.com/eBay/nice-modal-react
+Category:Specialized components
+Tags:
+Description: simplifies working with **modal** dialogs for example from Material UI oder Ant Design
+---
+Name: rc-pagination
+URL: https://github.com/react-component/pagination
+Category:Specialized components
+Tags:
+Description: **Pagination** components
+---
+Name: react-avatar
+URL: https://github.com/kirill3333/react-avatar
+Category:Specialized components
+Tags:
+Description: load, crop and preview **avatars** with React 
+---
+Name: react-beautiful-dnd
+URL: https://github.com/atlassian/react-beautiful-dnd
+Category:Specialized components
+Tags:
+Description: **Drag'n'Drop** components for React built by Atlassian
+---
+Name: react-collapsed
+URL: https://github.com/roginfarrer/react-collapsed
+Category:Specialized components
+Tags:
+Description: custom-hook for creating flexible and accessible **expand/collapse components**
+---
+Name: react-command-palette
+URL: https://github.com/asabaylus/react-command-palette): A **comand palette** (for example like in VS Code
+Category:Specialized components
+Tags:
+Description: component for react
+---
+Name: react-cropper
+URL: http://roadmanfong.github.io/react-cropper/
+Category:Specialized components
+Tags:
+Description: **Image cropper** component for React
+---
+Name: React Modal
+URL: https://reactcommunity.org/react-modal/
+Category:Specialized components
+Tags:
+Description: **Modal dialog** component for React
+---
+Name: react-pdf
+URL: https://github.com/wojtekmaj/react-pdf
+Category:Specialized components
+Tags:
+Description: display **PDF** files
+---
+Name: React Select
+URL: http://jedwatson.github.io/react-select/
+Category:Specialized components
+Tags:
+Description: **Select Input** component with multiselect, autocomplete and ajax support
+---
+Name: React Spinners
+URL: https://www.react-spinners.com/
+Category:Specialized components
+Tags:
+Description: Collection of **Spinner (Loading indicators...)** components for React
+---
+Name: react-timekeeper
+URL: https://catc.github.io/react-timekeeper/
+Category:Specialized components
+Tags:
+Description: **Time picker** based on the style of the Android Google Keep app
+---
+Name: React Timeline
+URL: https://react-timeline.com
+Category:Specialized components
+Tags:
+Description: Responsive **Timeline** components for React
+---
+Name: react-sidebar-ui
+URL: https://github.com/Svetloslav15/react-sidebar-ui
+Category:Specialized components
+Tags:
+Description: A **sidebar** component
+---
+Name: react-uploady
+URL: https://github.com/rpldy/react-uploady
+Category:Specialized components
+Tags:
+Description: **file uploading** components
+---
+Name: React Virtualized
+URL: https://bvaughn.github.io/react-virtualized
+Category:Specialized components
+Tags:
+Description: Components for efficiently rendering large lists and tabular data
+---
+Name: video-react
+URL: https://video-react.js.org/
+Category:Specialized components
+Tags:
+Description: HTML5-based **video player** with React
+---
+Name: Verbum
+URL: https://github.com/ozanyurtsever/verbum
+Category:Specialized components
+Tags:
+Description: fully flexible text editor 
+---
+Name: Framer Motion
+URL: https://www.framer.com/motion/
+Category:Animations
+Tags:
+Description: **fluid animations** for the web, across desktop and mobile.
+---
+Name: react-animation
+URL: https://nearform.github.io/react-animation/
+Category:Animations
+Tags:
+Description: components and **pre-built animations**
+---
+Name: react-animations
+URL: https://github.com/FormidableLabs/react-animations
+Category:Animations
+Tags:
+Description: animations for **inline style libraries**
+---
+Name: react-spring
+URL: https://www.react-spring.io/
+Category:Animations
+Tags:
+Description: **spring-physics** based animation library
+---
+Name: highcharts-react
+URL: https://www.npmjs.com/package/highcharts-react-official
+Category:Charts and Diagrams
+Tags:
+Description: Official **Highcharts** react components
+---
+Name: React Chart
+URL: https://devexpress.github.io/devextreme-reactive/react/chart/
+Category:Charts and Diagrams
+Tags:
+Description: React Chart for **Bootstrap and Material-UI**
+---
+Name: React Dynamic Charts
+URL: https://dsternlicht.github.io/react-dynamic-charts/
+Category:Charts and Diagrams
+Tags:
+Description: **animated dynamic charts** to visualize your visualize your data
+--
+Name: react-flow-chart
+URL: https://github.com/MrBlenny/react-flow-chart
+Category:Charts and Diagrams
+Tags:
+Description: **flow chart** library for react with **drag'n'drop**
+---
+Name: react-plotly
+URL: https://github.com/plotly/react-plotly.js
+Category:Charts and Diagrams
+Tags:
+Description: React Component for **plotly.js** charting library
+---
+Name: react-vis
+URL: https://uber.github.io/react-vis/
+Category:Charts and Diagrams
+Tags:
+Description: A composable **charting library** by Uber
+---
+Name: React Hook Form
+URL: https://react-hook-form.com/
+Category:Forms
+Tags:
+Description: Hook-based Forms with Validation etc.
+---
+Name: React Form
+URL: https://react-form.js.org/#/
+Category:Forms
+Tags:
+Description: form framework including validation etc
+---
+Name: Redux Form
+URL: https://redux-form.com
+Category:Forms
+Tags:
+Description: Form framework based on **Redux**
+---
+Name: Formik
+URL: https://github.com/jaredpalmer/formik
+Category:Forms
+Tags:
+Description: Form Framework for React
+---
+Name: formsy-react
+URL: https://github.com/formsy/formsy-react
+Category:Forms
+Tags:
+Description: Form input builder and validator
+---
+Name: Feather Icons
+URL: https://github.com/feathericons/react-feather
+Category:Icon Libs
+Tags:
+Description: **Feather icon** components
+---
+Name: FontAwesome
+URL: https://github.com/FortAwesome/react-fontawesome
+Category:Icon Libs
+Tags:
+Description: FontAwesome icons for React
+---
+Name: Lucide
+URL: https://lucide.dev/
+Category:Icon Libs
+Tags:
+Description: community-run fork of Feather Icons
+---
+Name: Octicons
+URL: https://github.com/primer/octicons
+Category:Icon Libs
+Tags:
+Description: A scalable set of icons by GitHub
+---
+Name: react-icons
+URL: https://react-icons.github.io/
+Category:Icon Libs
+Tags:
+Description: popular icons for react (from various sources)
+---
+Name: react-ionicons
+URL: https://react-ionicons.netlify.app/
+Category:Icon Libs
+Tags:
+Description: **Ionic** icons as React components
+---
+Name: React Admin
+URL: https://marmelab.com/react-admin/
+Category:Other
+Tags:
+Description: A frontend Framework for building admin applications on top of REST/GraphQL APIs with React and Material Design (v2 of admin-on-rest, which is now in maintenance mode)
+---
+Name: Airframe React
+URL: https://github.com/0wczar/airframe-react
+Category:Other
+Tags:
+Description: **Dashboard, Admin, Analytics template** for React (based on Bootstrap)
+---
+Name: ThemeUI
+URL: https://theme-ui.com/
+Category:Other
+Tags:
+Description: Build themeable apps with React
+---
+Name: React Sketch.app
+URL: http://airbnb.io/react-sketchapp/
+Category:Other
+Tags:
+Description: Render React components to **Sketch**
+---
+Name: Ink
+URL: https://github.com/vadimdemedes/ink
+Category:Other
+Tags:
+Description: React components React for **interactive command-line apps**
+---
+Name: FormatJS
+URL: https://formatjs.io/
+Category:i18n
+Tags:
+Description: libraries for internationalization (contains **react-intl** by yahoo)
+---
+Name: react-i18next
+URL: https://github.com/i18next/react-i18next
+Category:i18n
+Tags:
+Description: internationalization based on **i18next*
+---
+Name: LinguiJS
+URL: https://lingui.js.org/ref/react.html
+Category:i18n
+Tags:
+Description: internationalization in Javascript
+---
+Name: fbt
+URL: https://facebook.github.io/fbt/
+Category:i18n
+Tags:
+Description: internationalization library by facebook
+---
+Name: aHooks
+URL: https://ahooks.js.org/
+Category:Hooks
+Tags:
+Description: Library with various hooks for different purposes
+---
+Name: useHooks
+URL: https://usehooks.com/
+Category:Hooks
+Tags:
+Description: Example hooks with source code examples
+---
+Name: React Aria
+URL: https://react-spectrum.adobe.com/react-aria/index.html
+Category:Accessibility
+Tags:
+Description: Hooks that provides **accessible UI primitives** by Adobe
+---
+Name: Apollo GraphQL Client
+URL: https://www.apollographql.com/docs/react/data/local-state/
+Category:(External) Statemanagement
+Tags:
+Description: React state in client-side GraphQL
+---
+Name: Jotai
+URL: https://jotai.org/
+Category:(External) Statemanagement
+Tags:
+Description: flexible statemanagement with support for suspense and concurrent features.
+---
+Name: Mobx
+URL: https://mobx.js.org/README.html
+Category:(External) Statemanagement
+Tags:
+Description: Simple, scalable state management
+---
+Name: Overmind
+URL: https://overmindjs.org/
+Category:(External) Statemanagement
+Tags:
+Description: frictionless state management
+---
+Name: Recoil
+URL: https://recoiljs.org/
+Category:(External) Statemanagement
+Tags:
+Description: statemanagement library for React (by Facebook)
+---
+* [Recollect](https://github.com/davidgilbertson/react-recollect), a state management library for React, an alternative to Redux
+Name: Redux
+URL: https://redux.js.org/
+Category:(External) Statemanagement
+Tags:
+Description: Predictable State Container
+---
+Name: Redux Toolkit
+URL: https://redux-toolkit.js.org/
+Category:(External) Statemanagement
+Tags:
+Description: official, opinionated, batteries-included toolset for efficient Redux
+---
+Name: Satchel
+URL: https://github.com/microsoft/satcheljs
+Category:(External) Statemanagement
+Tags:
+Description: **dataflow framework** based on the Flux architecture by Microsoft (works with **MobX**)
+---
+Name: Stately
+URL: https://react-spectrum.adobe.com/react-stately/index.html
+Category:(External) Statemanagement
+Tags:
+Description: Hooks that provides cross-platform state management for your **design system**
+---
+Name: Zustand
+URL: https://github.com/pmndrs/zustand
+Category:(External) Statemanagement
+Tags:
+Description: small statemanagement library 
+---
+Name: RTK Query
+URL: https://redux-toolkit.js.org/rtk-query/overview
+Category:Data Fetching
+Tags:
+Description: Data fetching for **Redux**
+---
+Name: SWR
+URL: https://swr.vercel.app/
+Category:Data Fetching
+Tags:
+Description: Hooks library for data fetching ("stale-while-revalidate")
+---
+Name: Tanstack Query
+URL: https://tanstack.com/query
+Category:Data Fetching
+Tags:
+Description: Hooks for fetching, caching and updating asynchronous data in React (prev. known as **React Query**)
+---
+Name: component gallery
+URL: https://component.gallery/design-systems/?tech=React
+Category:Resources
+Tags:
+Description: list of various **Design systems** available for React
+---
+Name: Dashboards
+URL: https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j
+Category:Resources
+Tags:
+Description: List of React Dashboards Apps
+---
+Name: UI Components
+URL: https://reactjs.org/community/ui-components.html
+Category:Resources
+Tags:
+Description: Amazing list of Components 
+---
