@@ -19,11 +19,11 @@ const componentsFile = path.join(process.cwd(), "data/components.txt");
 console.log("componentsFile", componentsFile);
 
 function slugForCategory(title: string) {
-  return slugify(title)
-    .replaceAll("(", "")
-    .replaceAll(")", "")
-    .replaceAll('"', "")
-    .toLowerCase();
+  return clean(slugify(title)).toLowerCase();
+}
+
+function clean(t: string) {
+  return t.replaceAll("(", "").replaceAll(")", "").replaceAll('"', "");
 }
 
 function loadComponentData() {
@@ -104,10 +104,11 @@ export function categoryBySlugFilter(slug: string) {
 }
 
 function setupAppData(): ICategoryData[] {
+  const allLibrariesTitle = "All libraries";
   const componentDescriptions = loadComponentData();
   const result: ICategoryData[] = [
     {
-      title: "All libraries",
+      title: allLibrariesTitle,
       slug: "",
       components: componentDescriptions,
     },
@@ -130,6 +131,14 @@ function setupAppData(): ICategoryData[] {
     const page: ICategoryData = getOrCreateCategory(cd.category);
     page.components.push(cd);
   });
+
+  result.sort((r1, r2) =>
+    r1.title === allLibrariesTitle
+      ? -1
+      : r2.title === allLibrariesTitle
+      ? 1
+      : clean(r1.title).localeCompare(clean(r2.title))
+  );
 
   result.forEach((r) => {
     r.components.sort((a, b) => a.name.localeCompare(b.name));

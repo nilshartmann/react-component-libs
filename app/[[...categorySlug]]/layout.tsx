@@ -16,8 +16,8 @@ export default function Layout({ params, children }: LayoutProps) {
     <TwoColumnLayout>
       <Main>{children}</Main>
       <Sidebar>
-        <Categories active={categorySlug} />
         <Contributors />
+        <Categories active={categorySlug} />
       </Sidebar>
     </TwoColumnLayout>
   );

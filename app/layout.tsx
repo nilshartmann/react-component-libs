@@ -30,7 +30,7 @@ export default function RootLayout({
           <div className="container mx-auto">
             <div className={"p-3"}>
               <PageHeader actionButton={[]}>
-                React Component Libraries
+                React Libraries (components and other)
               </PageHeader>
               {children}
               <PageFooter />

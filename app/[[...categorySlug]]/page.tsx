@@ -7,7 +7,6 @@ import CategoryList from "@/app/[[...categorySlug]]/CategoryList";
 
 export function generateStaticParams(): IPageParams[] {
   const slugs = getAppData().map((a) => ({ categorySlug: [a.slug] }));
-  console.log("STATIC PARAMS", slugs);
   return slugs;
 }
 type CategoryPageProps = {

@@ -18,5 +18,12 @@ type SidebarProps = {
   children: ReactNode;
 };
 export function Sidebar({ children }: SidebarProps) {
-  return <aside className={"col-span-2 bg-grey-1 p-2 "}>{children}</aside>;
+  return <aside className={"col-span-2 p-2 space-y-4"}>{children}</aside>;
+}
+
+type SidebarItemProps = {
+  children: ReactNode;
+};
+export function SidebarItem({ children }: SidebarItemProps) {
+  return <div className={"bg-grey-1 p-4"}>{children}</div>;
 }
