@@ -33,11 +33,14 @@ export default function PageHeader({
           </div>
         </ExternalLink>
       </div>
-      <H2>
-        This page contains a collection of libraries for{" "}
-        <ExternalLink href={"https://reactjs.org"}>React</ExternalLink> for
-        various purposes.
-      </H2>
+      <div>
+        If you&apos;re developing an application based on{" "}
+        <ExternalLink href={"https://reactjs.org"}>React</ExternalLink>, it can
+        be helpful if you don&apos;t need to develop all the basic UI components
+        etc. yourself. Here you can find a list with various components,
+        component libraries and complete design systems developed with and for
+        React.
+      </div>
     </header>
   );
 }
